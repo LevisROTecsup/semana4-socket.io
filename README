@@ -1,0 +1,8 @@
+## Carpeta node_modules
+<script src="../node_modules/socket.io/client-dist/socket.io.js"></script>
+
+## Carpeta public
+<script src="./main.js"></script>
+
+## Comando para iniciar la app
+node server/main.js
